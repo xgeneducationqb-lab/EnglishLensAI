@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">English Lens AI</string>
+    <string name="camera_permission_required">Ứng dụng cần quyền Camera để chụp và phân tích đề bài DET.</string>
+    <string name="grant_permission">Cấp quyền Camera</string>
+    <string name="capture">Chụp ảnh</string>
+    <string name="retake">Chụp lại</string>
+    <string name="crop">Cắt ảnh</string>
+    <string name="analyze">Phân tích</string>
+</resources>

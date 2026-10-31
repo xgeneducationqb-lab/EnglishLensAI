@@ -1,0 +1,14 @@
+package com.englishlens.ai.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val BluePrimary = Color(0xFF2563EB)
+val BlueDark = Color(0xFF1D4ED8)
+val AmberAccent = Color(0xFFF59E0B)
+val Slate950 = Color(0xFF020617)
+val Slate900 = Color(0xFF0F172A)
+val Slate800 = Color(0xFF1E293B)
+val Slate700 = Color(0xFF334155)
+val Slate400 = Color(0xFF94A3B8)
+val Slate100 = Color(0xFFF1F5F9)
+val EmeraldSuccess = Color(0xFF10B981)
